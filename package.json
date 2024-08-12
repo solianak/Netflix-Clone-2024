@@ -1,5 +1,5 @@
 {
-  "homepage": "https://solianak.github.io/Netflix-Clone-2024/",
+ 
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
     "eslint-plugin-jsx-a11y": "^6.9.0",
-    "firebase": "^10.12.2",
     "movie-trailer": "^3.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -23,8 +22,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
