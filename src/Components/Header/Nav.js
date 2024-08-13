@@ -29,7 +29,7 @@ const Nav = () => {
         <div className="header_left">
           <ul>
             <li>
-              <img src={NetflixLogo} alt="Netflix Logo" width="100" />
+              <img src="" alt="Netflix Logo" width="100" />
             </li>
             <li>Home</li>
             <li>TV Shows</li>
